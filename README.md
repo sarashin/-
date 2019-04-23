@@ -1,4 +1,0 @@
-"# MyPrograms" 
-# MyPrograms
-# DarkNoice
-# DarkNoice
